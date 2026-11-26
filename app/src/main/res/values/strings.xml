@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InkClean</string>
+    <string name="tagline_studio">Exam &amp; Document Ink Eraser</string>
+    <string name="action_import_pdf">Import PDF</string>
+    <string name="action_import_photos">Import Photos</string>
+    <string name="action_erase_all">Erase Handwriting</string>
+    <string name="action_erase_page">Erase Page</string>
+    <string name="action_cancel_erase">Stop</string>
+    <string name="action_retry_page">Retry Page</string>
+    <string name="action_export_pdf">Export PDF</string>
+    <string name="action_save_pdf_as">Save PDF As…</string>
+    <string name="action_share_pdf">Share PDF</string>
+    <string name="action_open_pdf">Open PDF</string>
+    <string name="action_new_document">New Doc</string>
+    <string name="label_original">Original</string>
+    <string name="label_cleaned">Cleaned</string>
+    <string name="mode_side_by_side">Side-by-Side</string>
+    <string name="mode_slider">Slider</string>
+    <string name="mode_cleaned_only">Cleaned</string>
+    <string name="vault_title">Secure Enclave Key Vault</string>
+    <string name="vault_subtitle">Your Gemini Nano Banana API key is encrypted with an Android Keystore key and never hardcoded or logged.</string>
+    <string name="vault_key_hint">Paste Gemini API Key (AIza…)</string>
+    <string name="vault_save_key">Save to Secure Enclave</string>
+    <string name="vault_wipe_key">Wipe Key</string>
+    <string name="vault_status_missing">API Key Required</string>
+    <string name="vault_status_strongbox">StrongBox Enclave</string>
+    <string name="vault_status_tee">Hardware TEE</string>
+    <string name="vault_status_software">Keystore Active</string>
+    <string name="cd_enclave_button">Open Secure Enclave API Key Vault</string>
+    <string name="cd_original_page">Original document page</string>
+    <string name="cd_cleaned_page">Cleaned document page with handwriting removed</string>
+    <string name="cd_toggle_key_visibility">Toggle API key visibility</string>
+    <string name="cd_import_new">Import another document</string>
+    <string name="cd_reset_zoom">Reset zoom</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="exported_pdfs"
+        path="exports/" />
+    <cache-path
+        name="page_cache"
+        path="pages/" />
+</paths>

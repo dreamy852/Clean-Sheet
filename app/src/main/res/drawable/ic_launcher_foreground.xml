@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document page silhouette centered in safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,27 H62 L74,39 V79 C74,81.2 72.2,83 70,83 H34 C31.8,83 30,81.2 30,79 V31 C30,28.8 31.8,27 34,27 Z" />
+    <!-- Folded corner accent -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M62,27 V37 C62,38.1 62.9,39 64,39 H74 Z" />
+    <!-- Crisp printed lines -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M37,44 H59 V47.5 H37 Z M37,53 H67 V56.5 H37 Z M37,62 H54 V65.5 H37 Z" />
+    <!-- Mint eraser sweep badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M56.5,58.5 L72.5,42.5 C74.1,40.9 76.7,40.9 78.3,42.5 L81.5,45.7 C83.1,47.3 83.1,49.9 81.5,51.5 L65.5,67.5 L56.5,67.5 Z" />
+    <!-- Sparkle / clean mark -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M43,71.5 L45,74.5 L48,76.5 L45,78.5 L43,81.5 L41,78.5 L38,76.5 L41,74.5 Z" />
+</vector>

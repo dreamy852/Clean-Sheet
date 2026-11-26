@@ -1,0 +1,6 @@
+{
+  "name": "InkClean",
+  "description": "Import exam papers or PDFs, erase handwritten notes using Gemini Nano Banana while preserving printed text, compare side-by-side, and export to a local PDF with hardware-enclave API key storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
